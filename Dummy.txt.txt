@@ -1,0 +1,7 @@
+Wellcome to GitHub:
+
+class print(){
+	public static void main(String[] args){
+		System.out.println("Wllcome to git");
+	}
+}
