@@ -1,7 +1,7 @@
-Wellcome to GitHub:
+Welcome to GitHub:
 
 class print(){
 	public static void main(String[] args){
-		System.out.println("Wllcome to git");
+		System.out.println("Welcome to git");
 	}
 }
