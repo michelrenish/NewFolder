@@ -2,6 +2,7 @@ Welcome to GitHub:
 
 class print(){
 	public static void main(String[] args){
+		Sysout("Welcome to all");
 		System.out.println("Welcome to git");
 	}
 }
